@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'mgApp',
-  tagline: "A file management program based on Microsoft's OneDrive network drive.",
+  tagline: "一个基于微软OneDrive网盘的文件管理程序，支持服务器端对网盘端的上传管理。",
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '项目简介',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {

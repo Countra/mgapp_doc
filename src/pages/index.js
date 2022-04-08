@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            mgApp Tutorial - 3min ⏱️
+            mgApp 项目简介
           </Link>
         </div>
       </div>
